@@ -1,6 +1,4 @@
-# Artificial Intelligence Documentation
-
-## 1. Evolution of AI Based on Timeline
+# Evolution of AI Based on Timeline
 
 AI has evolved over several decades, each marked by breakthroughs in theory, hardware, and application.
 
