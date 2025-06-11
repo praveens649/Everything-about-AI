@@ -4,7 +4,7 @@
 
 AI has evolved over several decades, each marked by breakthroughs in theory, hardware, and application.
 
-### 📅 Timeline of AI Development
+### Timeline of AI Development
 
 #### 🔹 1950s: The Birth of AI
 - Alan Turing proposes the **Turing Test**
@@ -45,15 +45,7 @@ AI has evolved over several decades, each marked by breakthroughs in theory, har
 
 ---
 
-## 3. Conclusion
+## Conclusion
 
 The field of Artificial Intelligence has progressed from rule-based automation to learning systems and now toward intelligent generalization. As AI continues to evolve, it holds great promise — and responsibility — for shaping our future.
-
----
-
-## 📚 References
-- Turing, A. M. (1950). *Computing Machinery and Intelligence*
-- McCarthy, J. (1956). *Dartmouth Conference Proposal*
-- Russell, S., & Norvig, P. (2016). *Artificial Intelligence: A Modern Approach*
-- OpenAI, DeepMind, Google Research papers
 
