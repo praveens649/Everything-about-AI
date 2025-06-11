@@ -1,4 +1,4 @@
-# 🤖 Types of Artificial Intelligence Based on Functionality
+# Artificial Intelligence Based on Functionality
 
 AI systems can be classified into four distinct types based on how they function and simulate human cognitive abilities. These categories define the **depth of intelligence** and **capability** embedded in each system.
 
@@ -91,6 +91,5 @@ Self-Aware AI is the **most advanced and hypothetical** form of AI. It will have
 - Fully autonomous decision-makers
 - Philosophical and ethical AI interactions
 - Independent scientific reasoning systems
-
-![Image](https://github.com/user-attachments/assets/3abd4499-ffe0-4746-ac63-5da4ae696ff3)
+---
 
