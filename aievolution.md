@@ -42,7 +42,11 @@ AI has evolved over several decades, each marked by breakthroughs in theory, har
 - Growing interest in **Artificial General Intelligence (AGI)**
 
 ---
-
+ ## Pictorial Representation of AI Timeline
+ ---
+ ![Image](https://github.com/user-attachments/assets/0ed18844-b01f-4710-b4ac-903bb39fa410)
+ ---
+ 
 ## Conclusion
 
 The field of Artificial Intelligence has progressed from rule-based automation to learning systems and now toward intelligent generalization. As AI continues to evolve, it holds great promise — and responsibility — for shaping our future.
