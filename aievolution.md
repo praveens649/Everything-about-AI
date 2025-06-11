@@ -1,49 +1,6 @@
 # 🤖 Artificial Intelligence Documentation
 
-## 1. Types of AI Based on Functionality
-
-Artificial Intelligence (AI) can be classified into three major categories based on how it functions and mimics human capabilities:
-
-### 1.1 Narrow AI (ANI - Artificial Narrow Intelligence)
-- Also known as **Weak AI**
-- Designed for a specific task
-- Performs within a limited context
-- Does not possess consciousness or self-awareness
-
-#### Examples:
-- Virtual assistants (Siri, Alexa)
-- Recommendation systems (Netflix, YouTube)
-- Image recognition software
-- Chatbots
-
----
-
-### 1.2 General AI (AGI - Artificial General Intelligence)
-- Also known as **Strong AI**
-- Capable of performing any intellectual task that a human can do
-- Has the ability to learn, reason, and adapt in different scenarios
-- Still theoretical; not yet achieved
-
-#### Characteristics:
-- Self-learning
-- Cognitive abilities similar to humans
-- Flexible problem-solving
-
----
-
-### 1.3 Super AI (ASI - Artificial Super Intelligence)
-- Hypothetical AI that surpasses human intelligence
-- Possesses superior decision-making, learning, creativity, and emotional intelligence
-- Could potentially outperform humans in every aspect
-
-#### Risks and Considerations:
-- Ethical concerns
-- Existential risk to humanity
-- Requires strict regulation and control mechanisms
-
----
-
-## 2. Evolution of AI Based on Timeline
+## 1. Evolution of AI Based on Timeline
 
 AI has evolved over several decades, each marked by breakthroughs in theory, hardware, and application.
 
