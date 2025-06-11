@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence Documentation
+# Artificial Intelligence Documentation
 
 ## 1. Evolution of AI Based on Timeline
 
